@@ -66,7 +66,7 @@ pip install tensorflow matplotlib
 ## Repository structure
 
 ```
-cats-vs-dogs-cnn/
+Dog_vs_Cat_CNN/
 ├── README.md
 ├── notebook/
 │   └── Dog_vs_Cat_CNN.ipynb   # data loading, model, experiments
